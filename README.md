@@ -1,4 +1,4 @@
-# testapp
+# A simple dashboard navigation
 An app displaying side bar with admin and app mode menus
 ##  *How to run the application*
 1. git clone this repo to your local computer
