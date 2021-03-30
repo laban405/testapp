@@ -1,0 +1,12 @@
+.logo {
+  padding: 5px;
+  background-color: #d3d3d3;
+  color: #afafaf;
+  font-style: italic;
+  width: 10%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 40vw;
+}
